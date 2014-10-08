@@ -17,6 +17,7 @@ timeout = 10
 socket.setdefaulttimeout(timeout)
 
 __URLS__ = {
+	'mochlos':'http://en76.grepolis.com',
 	'alpha':'http://en1.grepolis.com',
 	'beta':'http://en2.grepolis.com',
 	'gamma':'http://en3.grepolis.com',
